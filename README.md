@@ -58,7 +58,7 @@ Donation Button can be added by appending the filename to the buttons list and u
 ---
 
 ## Add a Payment Gateway
-A Payment gateway can be added by appending the gateway listing to the gateways list, and uplaoding the gateway listing image.
+A Payment gateway can be added by appending the gateway listing to the gateways list, and uploading the gateway listing image.
 
 * **ADD LISTING** - Open `_data/gateways.yml` and add the new gateway listing to the YAML list. 
 [https://github.com/scott-ftf/arrrmada.com/edit/main/_data/gateways.yml](https://github.com/scott-ftf/arrrmada.com/edit/main/_data/gateways.yml) 

@@ -73,7 +73,7 @@ javascript-list:
 
       <div class="submit-listing">
         <h2>Commit Listing</h2>
-        <p><strong>STEP 3:</strong> Save the YAML to github, and upload the merchant image to complete the listing.</p>
+        <p><strong>STEP 3:</strong> Upload the merchant image, and save the YAML to github to complete the listing.</p>
         <div id="codeOutputContainer">
           <div id="codeOutput"></div>
           <button id="copyButton" title="copy code" onclick="copyToClipboard()">
@@ -85,12 +85,12 @@ javascript-list:
         
         <ol class="github-instructions">
           <li>
-            Copy the above YAML to the list here: <a href="{{ site.repo }}/edit/main/_data/merchants.yml">Merchants.yml</a><br />
-            Commit message:<br /><span class="commit_msg" id="merchant_commit_message"></span>          
-          </li>
-          <li>
             Upload the merchant image here: <a href="{{ site.repo }}/upload/main/assets/img/merchants">Upload Image</a><br />
             Commit message:<br /><span class="commit_msg"  id="upload_commit_message"></span>  
+          </li>
+          <li>
+            Copy the above YAML to the BOTTOM of the list here: <a href="{{ site.repo }}/edit/main/_data/merchants.yml">Merchants.yml</a><br />
+            Commit message:<br /><span class="commit_msg" id="merchant_commit_message"></span>          
           </li>
         </ol>
 
