@@ -783,12 +783,12 @@
     Degoogled phones. PRIVACY is our passion! Where there is NO PRIVACY,
     there is NO FREEDOM. We strive to help educate people on the ever
     growing privacy issues
-  image: "getprivacy.webp"
+  image: "gpf.webp"
   url: "https://getprivacyfreedom.me/"
   tags: [39, 44]
 
 - id: Iy4SPSWt
-  name: "https://arcanedev.gitlab.io/optouts"
+  name: "Opt Out Security"
   description: >
     OptOut Security is an organization created for the purpose of
     reclaiming privacy and security.
